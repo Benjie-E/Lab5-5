@@ -12,7 +12,6 @@
 
 using namespace std;
 
-
 int main()
 {
 	//makes three widgets using the regular constructor
